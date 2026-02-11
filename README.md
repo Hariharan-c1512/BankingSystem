@@ -3,3 +3,6 @@ This project is a Java console-based Bank Management System implemented using JD
 The purpose of this project is to demonstrate how core banking operations can be performed using procedural Java code combined with direct database interaction via JDBC.
 
 The application communicates directly with a relational database (Oracle) to perform transactions such as balance inquiry and fund transfer.
+<img width="514" height="218" alt="image" src="https://github.com/user-attachments/assets/99b98542-071e-40a8-8580-8791041d6659" />
+<img width="576" height="262" alt="image" src="https://github.com/user-attachments/assets/f89eeea6-cbe4-4eca-99cf-1895e09992e4" />
+<img width="576" height="262" alt="image" src="https://github.com/user-attachments/assets/ebbabef1-412e-4bb0-9333-8c34c8e31f67" />
